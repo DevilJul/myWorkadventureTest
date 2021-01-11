@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/wieso.json"
+                 "value":".\/wiese.json"
                 }],
          "type":"tilelayer",
          "visible":true,
